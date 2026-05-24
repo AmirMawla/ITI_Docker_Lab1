@@ -22,13 +22,13 @@
 - Remove the container
 - Remove the image
 
-![Problem 1 - Step 1](Images/p11.png)
+![Problem 1 - Step 1](images/p11.png)
 
-![Problem 1 - Step 2](Images/p12.png)
+![Problem 1 - Step 2](images/p12.png)
 
-![Problem 1 - Step 3](Images/p13.png)
+![Problem 1 - Step 3](images/p13.png)
 
-![Problem 1 - Step 4](Images/p14.png)
+![Problem 1 - Step 4](images/p14.png)
 ---
 
 # Problem 2
@@ -46,13 +46,13 @@ echo docker
 - Stop the container and remove it. Write your comment about the file `hello-docker`
 - Remove all stopped containers
 
-![Problem 2 - Step 1](Images/p21.png)
+![Problem 2 - Step 1](images/p21.png)
 
-![Problem 2 - Step 2](Images/p22.png)
+![Problem 2 - Step 2](images/p22.png)
 
-![Problem 2 - Step 3](Images/p23.png)
+![Problem 2 - Step 3](images/p23.png)
 
-![Problem 2 - Step 4](Images/p24.png)
+![Problem 2 - Step 4](images/p24.png)
 
 ---
 
@@ -70,7 +70,7 @@ MYSQL_ROOT_PASSWORD=
 
 - Run the container in the background
 
-![Problem 3](Images/p31.png)
+![Problem 3](images/p31.png)
 
 ---
 
@@ -82,13 +82,13 @@ MYSQL_ROOT_PASSWORD=
 - Add HTML static files to the container and make sure they are accessible
 - Commit the container with image name `IMAGE_NAME`
 
-![Problem 4 - Step 1](Images/p41.png)
+![Problem 4 - Step 1](images/p41.png)
 
-![Problem 4 - Step 2](Images/p42.png)
+![Problem 4 - Step 2](images/p42.png)
 
-![Problem 4 - Step 3](Images/p43.png)
+![Problem 4 - Step 3](images/p43.png)
 
-![Problem 4 - Step 4](Images/p44.png)
+![Problem 4 - Step 4](images/p44.png)
 
 ---
 
@@ -102,21 +102,21 @@ MYSQL_ROOT_PASSWORD=
 - **(Bonus)** Create a Dockerfile for the same app in smaller size using multi staging
 - Push the created image into your Docker Hub repo
 
-![Problem 5 - Step 1](Images/p51.png)
+![Problem 5 - Step 1](images/p51.png)
 
-![Problem 5 - Step 2](Images/p52.png)
+![Problem 5 - Step 2](images/p52.png)
 
-![Problem 5 - Step 3](Images/p53.png)
+![Problem 5 - Step 3](images/p53.png)
 
-![Problem 5 - Step 4](Images/p54.png)
+![Problem 5 - Step 4](images/p54.png)
 
-![Problem 5 - Step 5](Images/p55.png)
+![Problem 5 - Step 5](images/p55.png)
 
-![Problem 5 - Step 6](Images/p56.png)
+![Problem 5 - Step 6](images/p56.png)
 
-![Problem 5 - Step 7](Images/p57.png)
+![Problem 5 - Step 7](images/p57.png)
 
-![Problem 5 - Step 8](Images/p58.png)
+![Problem 5 - Step 8](images/p58.png)
 
-![Problem 5 - Step 9](Images/p59.png)
+![Problem 5 - Step 9](images/p59.png)
 
